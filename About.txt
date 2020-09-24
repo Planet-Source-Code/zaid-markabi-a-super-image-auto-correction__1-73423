@@ -1,0 +1,16 @@
+Image Auto-Correction - 2010.9.10
+
+This tool can be used to Correct image's colors, Refresh old photos, Adjust colors.
+And it includes several standard effects like Natural-Sunlight-Night-Sea-Fog-Burn.
+Also it's very fast in processing images.
+
+
+ This code had written by
+  Zaid Markabi , Arabic Syrian student.
+
+ Email :   zaidmarkabi@yahoo.com
+ Website : yazanmarkabi.com  or  yazanmarkabi.webs.com
+
+
+_______________________________________________
+Zaid_
